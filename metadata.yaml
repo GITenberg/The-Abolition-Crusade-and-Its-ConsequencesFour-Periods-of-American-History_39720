@@ -1,0 +1,33 @@
+_repo: The-Abolition-Crusade-and-Its-ConsequencesFour-Periods-of-American-History_39720
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herbert, Hilary A. (Hilary Abner)
+    aliases:
+    - Herbert, Hilary Abner
+    - Herbert, H. A. (Hilary Abner)
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '40175'
+    url: http://www.gutenberg.org/2009/agents/40175
+description: ''
+gutenberg_issued: '2012-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39720'
+  lccn: '12009688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (U.S. history, 1865-1877)'
+- !lcsh 'Antislavery movements -- United States'
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcc 'E300'
+title: 'The Abolition Crusade and Its Consequences: Four Periods of American History'
+url: http://www.gutenberg.org/ebooks/39720
